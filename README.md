@@ -8,7 +8,7 @@
 
 ## Sobre mí
 
-Soy **Neiver Granados**, tecnólogo en desarrollo de sistemas informáticos apasionado por construir herramientas útiles, automatizar procesos y explorar nuevas tecnologías. Siempre buscando aprender y crecer en el mundo del desarrollo de software.
+Me llamo **Neiver Granados**, tecnologo en desarrollo de sistemas informaticos, proximamente ingeniero en sistemas.
 
 ![Instagram](https://img.shields.io/badge/Instagram-ngqwrld999-E4405F?style=flat-square&logo=instagram&logoColor=white)
 &nbsp;
