@@ -114,11 +114,3 @@ Nivel de inglés **B2** — lectura técnica, documentación y comunicación pro
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngqwrld&theme=github_dark" />
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer" />
-
-</div>
