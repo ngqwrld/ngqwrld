@@ -69,20 +69,3 @@ Nivel de inglés **B2** — lectura técnica, documentación y comunicación pro
 | **Nuvio Gemini Recommender** | Motor de recomendación de contenido impulsado por Google Gemini | JavaScript · Gemini API |
 
 ---
-
-## Estadísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ngqwrld&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngqwrld&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer" />
-
-</div>
