@@ -108,3 +108,4 @@ Nivel de inglés **B2** — lectura técnica, documentación y comunicación pro
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngqwrld&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9"/>
 
 </div>
+
