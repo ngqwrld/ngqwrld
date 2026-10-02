@@ -26,7 +26,7 @@
 
 ## Sobre mí
 
-Estudiante de **Tecnología en Desarrollo de Sistemas Informáticos** en la Universidad Tecnológica de Santander, con enfoque en desarrollo de software, sistemas embebidos e inteligencia artificial. Trabajo con tecnologías de frontend, backend y mobile, y tengo experiencia integrando hardware IoT con modelos de IA. Actualmente explorando **Model Context Protocol (MCP)** como puente entre herramientas externas y sistemas inteligentes.
+Estudiante de **Tecnología en Desarrollo de Sistemas Informáticos** en la Universidad Tecnológica de Santander, con enfoque en desarrollo de software, sistemas embebidos e inteligencia artificial. Trabajo con tecnologías de frontend, backend y mobile, y como parte de mi formación académica en la universidad he desarrollado proyectos integrando hardware IoT con modelos de IA. Actualmente explorando **Model Context Protocol (MCP)** como puente entre herramientas externas y sistemas inteligentes.
 
 Nivel de inglés **B2** — lectura técnica, documentación y comunicación profesional sin barreras.
 
@@ -85,7 +85,6 @@ Nivel de inglés **B2** — lectura técnica, documentación y comunicación pro
 <div align="center">
 
 [![nuvio-gemini-recommender](https://github-readme-stats.vercel.app/api/pin/?username=ngqwrld&repo=nuvio-gemini-recommender&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/ngqwrld/nuvio-gemini-recommender)
-[![IoT](https://github-readme-stats.vercel.app/api/pin/?username=ngqwrld&repo=IoT&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/ngqwrld/IoT)
 
 </div>
 
@@ -112,7 +111,7 @@ Nivel de inglés **B2** — lectura técnica, documentación y comunicación pro
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ngqwrld&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngqwrld&theme=github_dark" />
 
 </div>
 
