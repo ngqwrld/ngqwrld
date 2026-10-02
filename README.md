@@ -14,7 +14,7 @@
 
 ## Sobre mí
 
-Estudiante de **Tecnología en Desarrollo de Sistemas Informáticos** en la Universidad Tecnológica de Santander, con enfoque en desarrollo de software, sistemas embebidos e inteligencia artificial. Trabajo con tecnologías de frontend, backend y mobile, y como parte de mi formación académica en la universidad he desarrollado proyectos integrando hardware IoT con modelos de IA. Actualmente explorando **Model Context Protocol (MCP)** como puente entre herramientas externas y sistemas inteligentes.
+Estudiante de **Tecnología en Desarrollo de Sistemas Informáticos** en la Universitaria Tecnológica de Santander, con enfoque en desarrollo de software, sistemas embebidos e inteligencia artificial. Trabajo con tecnologías de frontend, backend y mobile, y como parte de mi formación académica en la universidad he desarrollado proyectos integrando hardware IoT con modelos de IA. Actualmente explorando **Model Context Protocol (MCP)** como puente entre herramientas externas y sistemas inteligentes.
 
 Nivel de inglés **B2** — lectura técnica, documentación y comunicación profesional sin barreras.
 
